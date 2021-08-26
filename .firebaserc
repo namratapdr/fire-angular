@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "fir-angular-ee9c0": {
+      "hosting": {
+        "fire-angular": [
+          "fir-angular-ee9c0"
+        ]
+      }
+    }
+  }
+}
