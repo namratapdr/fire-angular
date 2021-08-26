@@ -1,5 +1,5 @@
 # FireAngular
 
-##Firebase integration with Angular
+## Firebase integration with Angular
 -Auth: Google Sign In
 -Firestore
